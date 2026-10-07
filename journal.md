@@ -67,3 +67,18 @@ I have also begun work on finding a way to fold the drone. I considered an exter
 <img width="333" height="292" alt="image" src="https://github.com/user-attachments/assets/ac52124f-6011-408b-88a1-74189148f9b9" />
 
 **Total time spent: 6.5h**
+
+
+## October 7th, 2026: Connecting electronics in a Diagram
+
+I have begun to model the hinge for the centre of the drone. I had to consider the height of different components to allow space between them (the drone will fold upwards as it acts as protection for the components). I will have to fashion a locking mechanism of some sort aswell.
+When I designed the arms of the drone, I made them detatchable so every time I printed a new base, only parts which had changed needed to be reprinted.
+
+I have modelled the hinge and implemented it into the design, as well as finding STEP files of electrical components to insert as sub assemblies into the project to show scale and how everything fits.
+<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/aaafcde7-4a44-4547-a086-4a5ae50b2265" />
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/68c5ca62-805b-40c3-b418-2af5c74d050c" />
+<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/35098bc6-cb67-4721-bdbe-a8b7a8c9ab5a" />
+
+**Total time spent: 8h**
+
+
