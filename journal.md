@@ -44,3 +44,13 @@ Not confident on all the inner electronic workings yet but I will keep going.
 <img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/c8325756-24ec-4861-8e6e-b04e5d228442" />
 
 **Total time spent: 5.5h**
+
+
+## September 20th, 2026: Flight controller work.
+
+Created a new folder in my github repository to work on the FCB, I am considering whether to go ahead with this plan or not, 
+but I have imported libraries and code from the guide into my files. One such file converts LCSC component codes into a format used by KiCad which I
+will be using for the FCB project. 
+I have decided to keep the FCB project for another day. I will go ahead with the drone with a distributed flight controller, although after I finish this project I might try to remake a model with my own FCB. 
+I will not log these hours as they did not contribute to the project.
+I will not log these hours as it did not contribute to the overall project.
