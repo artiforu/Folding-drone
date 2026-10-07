@@ -54,3 +54,16 @@ will be using for the FCB project.
 I have decided to keep the FCB project for another day. I will go ahead with the drone with a distributed flight controller, although after I finish this project I might try to remake a model with my own FCB. 
 I will not log these hours as they did not contribute to the project.
 I will not log these hours as it did not contribute to the overall project.
+
+## September 25th, 2026: Connecting electronics in a Diagram
+
+The whole point of having a raspberry Pi in my design is to automate some processes which cannot be coded into the FCB.
+Others have used the rpi to assess images or send gps tracking to an app, but I will attempt to use it to code automatic take-off and 
+landing sequences.
+I have connected electronics to each other in "FPV drone builder" so I can visualise how I will solder them together in future, and to show others my
+diagrams (I have never done this before and it is much simpler than I imagined with helpful guides linked to components as PDFs)
+I have also begun work on finding a way to fold the drone. I considered an external hinge, but realised an internal hinge would be more compact, and could be 3D printed as one print if well designed.
+
+<img width="333" height="292" alt="image" src="https://github.com/user-attachments/assets/ac52124f-6011-408b-88a1-74189148f9b9" />
+
+**Total time spent: 6.5h**
